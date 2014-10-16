@@ -1,0 +1,22 @@
+C:\Users\pstasko\AppData\Local\Temporary Projects\CRLFConverter\bin\Debug\CRLFConverter.exe
+C:\Users\pstasko\AppData\Local\Temporary Projects\CRLFConverter\bin\Debug\CRLFConverter.pdb
+C:\Users\pstasko\AppData\Local\Temporary Projects\CRLFConverter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\pstasko\AppData\Local\Temporary Projects\CRLFConverter\obj\x86\Debug\CRLFConverter.frmMain.resources
+C:\Users\pstasko\AppData\Local\Temporary Projects\CRLFConverter\obj\x86\Debug\CRLFConverter.Properties.Resources.resources
+C:\Users\pstasko\AppData\Local\Temporary Projects\CRLFConverter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\pstasko\AppData\Local\Temporary Projects\CRLFConverter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\pstasko\AppData\Local\Temporary Projects\CRLFConverter\obj\x86\Debug\CRLFConverter.exe
+C:\Users\pstasko\AppData\Local\Temporary Projects\CRLFConverter\obj\x86\Debug\CRLFConverter.pdb
+C:\Users\pstasko\documents\visual studio 2010\Projects\CRLFConverter\CRLFConverter\obj\x86\Debug\CRLFConverter.exe
+C:\Users\pstasko\documents\visual studio 2010\Projects\CRLFConverter\CRLFConverter\obj\x86\Debug\CRLFConverter.pdb
+C:\Users\pstasko\documents\visual studio 2010\Projects\CRLFConverter\CRLFConverter\bin\Debug\CRLFConverter.exe
+C:\Users\pstasko\documents\visual studio 2010\Projects\CRLFConverter\CRLFConverter\bin\Debug\CRLFConverter.pdb
+C:\Users\pstasko\documents\visual studio 2010\Projects\CRLFConverter\CRLFConverter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\pstasko\documents\visual studio 2010\Projects\CRLFConverter\CRLFConverter\obj\x86\Debug\CRLFConverter.frmMain.resources
+C:\Users\pstasko\documents\visual studio 2010\Projects\CRLFConverter\CRLFConverter\obj\x86\Debug\CRLFConverter.Properties.Resources.resources
+C:\Users\pstasko\documents\visual studio 2010\Projects\CRLFConverter\CRLFConverter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\pstasko\documents\visual studio 2010\Projects\CRLFConverter\CRLFConverter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\pstasko\documents\visual studio 2010\Projects\CRLFConverter\CRLFConverter\obj\x86\Debug\CRLFConverter.frmAbout.resources
+C:\Users\pstasko\documents\visual studio 2010\Projects\CRLFConverter\CRLFConverter\bin\Debug\CRLFConverter.exe.config
+C:\Users\pstasko\documents\visual studio 2010\Projects\CRLFConverter\CRLFConverter\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\pstasko\documents\visual studio 2010\Projects\CRLFConverter\CRLFConverter\obj\x86\Debug\ResGen.write.1.tlog

@@ -1,0 +1,22 @@
+<- Basic Information ---------------------------------------------------------------------->
+
+ Name: CRLF Converter
+ Version: 1.0
+ Release: 09/30/2011
+ Site: www.nerdthinking.com
+ Required: Microsoft .NET 2.0
+
+<- Summary -------------------------------------------------------------------------------->
+ 
+ CRLF Converter converts Line Feeds (LF), which are written by default in a *nix
+ environment to Carriage Return Line Feeds (CRLF) which are default in a Windows 
+ environment. This utility is ment to be simple and stright forward. Files or entire 
+ folders can be for processing. The application looks for Line Feeds and Carriage 
+ Returns at the Hexidemical level. Press CTRL+F1 in the application for version, author
+ and legal details.
+ 
+ Please inform me of bugs or feature requests by going to the website, www.nerdthinking.com
+
+<- Change Log ---------------------------------------------------------------------------->
+
+ - Version 1.0 - Build 09/30/2011 - Initial release.

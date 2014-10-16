@@ -1,0 +1,25 @@
+C:\Users\pstasko\documents\visual studio 2010\Projects\CRLFConverter\CRLFConverter\bin\Release\CRLFConverter.exe.config
+C:\Users\pstasko\documents\visual studio 2010\Projects\CRLFConverter\CRLFConverter\bin\Release\CRLFConverter.exe
+C:\Users\pstasko\documents\visual studio 2010\Projects\CRLFConverter\CRLFConverter\bin\Release\CRLFConverter.pdb
+C:\Users\pstasko\documents\visual studio 2010\Projects\CRLFConverter\CRLFConverter\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\pstasko\documents\visual studio 2010\Projects\CRLFConverter\CRLFConverter\obj\x86\Release\CRLFConverter.frmAbout.resources
+C:\Users\pstasko\documents\visual studio 2010\Projects\CRLFConverter\CRLFConverter\obj\x86\Release\CRLFConverter.frmMain.resources
+C:\Users\pstasko\documents\visual studio 2010\Projects\CRLFConverter\CRLFConverter\obj\x86\Release\CRLFConverter.Properties.Resources.resources
+C:\Users\pstasko\documents\visual studio 2010\Projects\CRLFConverter\CRLFConverter\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\pstasko\documents\visual studio 2010\Projects\CRLFConverter\CRLFConverter\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\pstasko\documents\visual studio 2010\Projects\CRLFConverter\CRLFConverter\obj\x86\Release\CRLFConverter.exe
+C:\Users\pstasko\documents\visual studio 2010\Projects\CRLFConverter\CRLFConverter\obj\x86\Release\CRLFConverter.pdb
+C:\Users\Patrick Stasko\My Dropbox\Netsmart\Projects\CRLFConverter\CRLFConverter\bin\Release\CRLFConverter.exe.config
+C:\Users\Patrick Stasko\My Dropbox\Netsmart\Projects\CRLFConverter\CRLFConverter\bin\Release\CRLFConverter.exe
+C:\Users\Patrick Stasko\My Dropbox\Netsmart\Projects\CRLFConverter\CRLFConverter\bin\Release\CRLFConverter.pdb
+C:\Users\Patrick Stasko\My Dropbox\Netsmart\Projects\CRLFConverter\CRLFConverter\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Patrick Stasko\My Dropbox\Netsmart\Projects\CRLFConverter\CRLFConverter\obj\x86\Release\CRLFConverter.frmAbout.resources
+C:\Users\Patrick Stasko\My Dropbox\Netsmart\Projects\CRLFConverter\CRLFConverter\obj\x86\Release\CRLFConverter.frmMain.resources
+C:\Users\Patrick Stasko\My Dropbox\Netsmart\Projects\CRLFConverter\CRLFConverter\obj\x86\Release\CRLFConverter.Properties.Resources.resources
+C:\Users\Patrick Stasko\My Dropbox\Netsmart\Projects\CRLFConverter\CRLFConverter\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\Patrick Stasko\My Dropbox\Netsmart\Projects\CRLFConverter\CRLFConverter\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\Patrick Stasko\My Dropbox\Netsmart\Projects\CRLFConverter\CRLFConverter\obj\x86\Release\CRLFConverter.exe
+C:\Users\Patrick Stasko\My Dropbox\Netsmart\Projects\CRLFConverter\CRLFConverter\obj\x86\Release\CRLFConverter.pdb
+C:\Users\Patrick\SkyDrive\My Documents\Visual Studio 2010\Projects\CRLFConverter\CRLFConverter\bin\Release\CRLFConverter.exe.config
+C:\Users\Patrick\SkyDrive\My Documents\Visual Studio 2010\Projects\CRLFConverter\CRLFConverter\obj\x86\Release\CRLFConverter.exe
+C:\Users\Patrick\SkyDrive\My Documents\Visual Studio 2010\Projects\CRLFConverter\CRLFConverter\obj\x86\Release\CRLFConverter.pdb
